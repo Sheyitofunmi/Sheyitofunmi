@@ -18,6 +18,7 @@ I'm a Sheyitofunmi, I am a passionate frontend developer, Content Creator, and C
  ## Skills
 
 - HTML5, CSS3, JavaScript (ES6+)
+-  JQuery
 - Typescript 
 - React.js, NextJs
 - CSS preprocessors
