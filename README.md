@@ -9,7 +9,7 @@ I'm a Sheyitofunmi, I am a passionate frontend developer, Content Creator, and C
 - 😊 Pronouns: Her/she
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning NextJs.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open-source projects, hackathons, and Job opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://flowcv.com/resume/uw2p8logp7) and contact me by emailing sheyitofunmi@gmail.com.
 
