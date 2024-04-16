@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **Feel free to shoot me an email at sheyitofunmi22@gmail.com. I'm always open to discussing new projects, sharing knowledge, or just chatting about tech!**
 
-- 📄 Know about my experiences [You can find my resume detailing my experiences and skills [Resume Link].]
+- 📄 Know about my experiences [You can find my resume detailing my experiences and skills [https://flowcv.com/resume/uw2p8logp7].]
 
 - ⚡ Fun fact **I think I am funny! But hey, humor is subjective, right? 😄**
 
