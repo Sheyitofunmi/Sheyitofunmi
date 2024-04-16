@@ -1,7 +1,9 @@
+[<img src="https://miro.medium.com/v2/resize:fit:679/1*NCGC9pN10cTacXQpBq7PvA.gif" alt="MasterHead" width="1500" height="300">](https://sheyitofunmi.vercel.app/)
 
-<h1 align="start">Hi 👋, I'm Sheyi</h1>
-<h3 align="start">A Passionate Frontend Developer Crafting Digital Experiences</h3>
-<p>I'm a Sheyitofunmi, I am a passionate frontend developer, Content Creator, and Community Engineer who currently works as a Frontend Developer at [YipOnline](https://www.yiponline.com/), with a focus on crafting delightful user experiences. I specialize in building responsive web applications using modern web technologies. Constantly seeking to learn and grow in the ever-evolving world of front-end development.  I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://medium.com/@sheyitofunmi22), build useful [open-source projects](https://github.com/AritDeveloperCircle/findyourpeople), speak at some meetups/conferences, build technical communities...</p>
+<h1 align="center">Hi 👋, I'm Sheyi</h1>
+<h3 align="center">A Passionate Frontend Developer Crafting Digital Experiences</h3>
+
+<img  align="right"  width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="" />
 
 <p align="left"> <a href="https://twitter.com/sheyitofunmi" target="blank"><img src="https://img.shields.io/twitter/follow/sheyitofunmi?logo=twitter&style=for-the-badge" alt="sheyitofunmi" /></a>     
 </p>
